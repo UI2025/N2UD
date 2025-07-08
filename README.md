@@ -7,6 +7,15 @@ This repository contains the publicly available and constructed N2UD datasets me
 ## 📌 Table of Contents
 - [📝 Introduction](#-introduction)  
 - [📁 Dataset Description](#-dataset-description)  
-- [📎 Citation](#-citation)  
+- [📎 Citation](#-citation)
+
+---
+
+## 📝 Introduction
+
+This repository provides the publicly available and constructed N2UD datasets:
+
+> **"[PMLPNet A Progressive Multi-Level Perception Network for Underwater Image Restoration under Non-Uniform Blur]"**  
+> *Authors*: [DeChuan Kong]
 
 ---
