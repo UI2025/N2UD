@@ -1,6 +1,6 @@
-# 🔬 PMLPNet A Progressive Multi-Level Perception Network for Underwater Image Restoration under Non-Uniform Blur
+# 🔬 Progressive Multi-Scale Perception Network for Non-Uniformly Blurred Underwater Image Restoration
 
-> **"[PMLPNet A Progressive Multi-Level Perception Network for Underwater Image Restoration under Non-Uniform Blur]"**  
+> **"[Progressive Multi-Scale Perception Network for Non-Uniformly Blurred Underwater Image Restoration]"**  
 > *Authors*: [DeChuan Kong]
 
 This repository contains the publicly available and constructed N2UD datasets mentioned in the paper:
